@@ -1,0 +1,10 @@
+[
+  {
+      "key": "alt+cmd+left",
+      "command": "workbench.action.navigateBack"
+  },
+  {
+      "key": "alt+cmd+right",
+      "command": "workbench.action.navigateForward"
+  }
+]
