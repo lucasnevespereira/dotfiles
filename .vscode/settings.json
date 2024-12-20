@@ -1,9 +1,21 @@
 {
-  "editor.fontSize": 16,
-  "editor.tabSize": 2,
-  "terminal.integrated.fontSize": 16,
-  "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": true,
-  "editor.guides.bracketPairsHorizontal": true,
-  "editor.guides.highlightActiveBracketPair": true
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "[Log]": {
+        "editor.fontSize": 16
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.tabs.defaultIcon": "github",
+    "terminal.integrated.letterSpacing": 0.8,
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "explorer.autoReveal": true
 }
