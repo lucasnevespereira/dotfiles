@@ -1,21 +1,53 @@
 {
-    "editor.fontSize": 15,
-    "editor.fontFamily": "JetBrains Mono",
-    "editor.fontLigatures": true,
-    "editor.tabSize": 2,
-    "[Log]": {
-        "editor.fontSize": 16
-    },
-    "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": true,
-    "editor.guides.bracketPairsHorizontal": true,
-    "editor.guides.highlightActiveBracketPair": true,
-    "editor.formatOnSave": true,
-    "terminal.integrated.fontSize": 15,
-    "terminal.integrated.fontFamily": "JetBrains Mono",
-    "terminal.integrated.tabs.defaultIcon": "github",
-    "terminal.integrated.letterSpacing": 0.8,
-    "files.autoSave": "onFocusChange",
-    "files.trimTrailingWhitespace": true,
-    "explorer.autoReveal": true
+{
+  "window.newWindowProfile": "Lucas",
+  "editor.fontFamily": "IBM Plex Mono",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "[Log]": {
+    "editor.fontSize": 16
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.highlightActiveBracketPair": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.fontFamily": "IBM Plex Mono",
+  "terminal.integrated.tabs.defaultIcon": "github",
+  "terminal.integrated.letterSpacing": 0.8,
+  "files.autoSave": "onFocusChange",
+  "files.trimTrailingWhitespace": true,
+  "explorer.autoReveal": true,
+  "workbench.iconTheme": "catppuccin-macchiato",
+  "editor.fontSize": 15,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.preferredLightColorTheme": "Catppuccin Frappé",
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "github.copilot.enable": {
+    "*": true
+  },
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+    }
+  },
+  "[typescriptreact]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "always"
+    }
+  }
+}
+
 }
