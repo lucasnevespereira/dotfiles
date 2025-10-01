@@ -25,7 +25,7 @@
   "window.autoDetectColorScheme": true,
   "workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode", // Prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "always"
   },
